@@ -1,4 +1,4 @@
-![](./screen-caps/01Login.jpg)
-![](./screen-caps/02Home.jpg)
-![](./screen-caps/03Chats.jpg)
-![](./screen-caps/04CreateChat.jpg)
+![small](./screen-caps/01Login.jpg)
+![small](./screen-caps/02Home.jpg)
+![small](./screen-caps/03Chats.jpg)
+![small](./screen-caps/04CreateChat.jpg)
